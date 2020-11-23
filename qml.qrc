@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>rect.qml</file>
+        <file>hexa.png</file>
+    </qresource>
+</RCC>
